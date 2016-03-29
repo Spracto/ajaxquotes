@@ -1,3 +1,12 @@
 * {
-  font-family: monaco;
+  /*font-family: monaco;*/
+}
+.quote{
+  height: 250px;
+  width: 250px;
+  background-color: yellow;
+  display: inline-block;
+  vertical-align: top;
+  margin: 10px;
+
 }
